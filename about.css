@@ -1,0 +1,35 @@
+.text-center{
+    padding-top: 70px;
+    font-family:cursive;
+}
+h5{
+    font-size: 30px;
+}
+.bottom{
+    padding-top: 90px;
+}
+h4{
+    font-size: 30px;
+    padding-top: 40px;
+    font-family: cursive;
+    padding-left: 150px;
+}
+p{
+    padding-top: 20px;
+    padding-left: 150px;
+    font-size: 20px;
+    font-family: cursive;
+}
+.bottom-2{
+    padding-top: 130px;
+    margin-left:230px;
+    margin-right:30px;
+    width: 50;
+}
+.container{
+    padding-left: 200px;
+}
+body{
+    background-color: #D1D0CE;
+}
+
